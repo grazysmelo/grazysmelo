@@ -4,7 +4,7 @@
 ### Sigo em desenvolvimento para aplicar meu conhecimento técnico em Análise de Dados, focando em transformar requisitos técnicos em soluções de negócio eficientes.
 
 ## Minhas Habilidades 
-- AWS | PYTHON | SCALA | SQL | POWER BI | 
+- AWS | PYTHON | SCALA | SQL | POWER BI
 
 <!--
 **grazysmelo/grazysmelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
