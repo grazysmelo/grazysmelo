@@ -1,10 +1,11 @@
 ### <div align="center">Olá 👋,</div>  
 
-## 🌱 Atualmente sou uma Estudante de Engenharia de Software com experiência prática em Engenharia de Dados e Cloud (AWS). 
-### Sigo em desenvolvimento para aplicar meu conhecimento técnico em Análise de Dados, focando em transformar requisitos técnicos em soluções de negócio eficientes.
+## 🌱 Análise e Engenharia de Dados! 
+### Atualmente atuo em análise de Dados, focando em transformar requisitos técnicos em soluções de negócio eficientes.
+### Possuo projetos de ETL e Integração de sistemas, análises e Engenharia de dados.
 
-## Minhas Habilidades 
-- AWS | PYTHON | SCALA | SQL | POWER BI
+## Minha Stack 
+- AWS | PYTHON | SQL | POWER BI
 
 <!--
 **grazysmelo/grazysmelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
